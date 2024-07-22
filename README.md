@@ -4,7 +4,7 @@ This project is a personalized version of a guided project I completed on [Mimo.
 The completed version hosted on Mimo can be seen [here](https://xajajh.mimo.run/index.html),
 
 ## Introduction
-This is a personal portfolio page for Steven Farless, an aspiring software developer currently learning HTML, CSS, JavaScript, and Python. The page includes a brief introduction and links to social media profiles.
+The page includes a brief introduction and links to social media profiles.
 
 ## Technologies
 - HTML
