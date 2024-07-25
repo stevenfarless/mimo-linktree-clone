@@ -1,4 +1,4 @@
-# Personal Linktree Style Portfolio Page
+# Personal Linktree Style Link Page
 
 This project is a personalized version of a guided project I completed on [Mimo.org](https://mimo.org) to learn HTML and CSS.
 The page showcases a simple starting point for profile links and potential portfolio projects.
